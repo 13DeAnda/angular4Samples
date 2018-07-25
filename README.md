@@ -1,6 +1,6 @@
 Install:
 
-`npm instll`
+`npm install`
 
 Run:
 
