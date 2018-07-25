@@ -1,5 +1,3 @@
-# angular4Samples
-
 Install:
 
 `npm instll`
